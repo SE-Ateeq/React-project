@@ -1,0 +1,34 @@
+.choose_img img{
+    border-radius: 15px;
+}
+.choose_content{
+    padding-right: 50px;
+}
+.choose_img{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 777;
+}
+.play_icon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    z-index: 7777;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.play_icon i{
+    color: #17bf9e;
+    font-size: 2rem;
+    padding: 10px;
+}
