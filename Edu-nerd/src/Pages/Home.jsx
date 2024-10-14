@@ -5,6 +5,8 @@ import Company from '../Components/Company-sec/Company';
 import About from '../Components/About-us/About';
 import Courses from '../Components/Courses/Courses';
 import Choose from '../Components/Choose-us/Choose';
+import Features from '../Components/Feature-sec/Features';
+
 
 function Home() {
   return (
@@ -15,6 +17,7 @@ function Home() {
     <About />
     <Courses />
     <Choose />
+    <Features />
     </>
   )
 }

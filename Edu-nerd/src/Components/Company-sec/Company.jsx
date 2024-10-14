@@ -9,36 +9,36 @@ const Company = ()=> {
         <Row>
           <Col lg="2" md="3">
              <h3 className="d-flex align-items-center gap-1">
-              <i className="fa-brands fa-square-vimeo"></i>Vimeo
+             <i className="ri-vimeo-line"></i>Vimeo
             </h3>
           </Col>
           <Col lg="2" md="3">
             <h3 className="d-flex align-items-center gap-1">
-              <i className="fa-brands fa-pinterest"></i>Pinterest
+            <i className="ri-pinterest-line"></i>Pinterest
             </h3>
           </Col>
 
           <Col lg="2" md="3">
             <h3 className="d-flex align-items-center gap-1">
-              <i className="fa-brands fa-dribbble"></i>Dribbble
+            <i className="ri-dribbble-fill"></i>Dribbble
             </h3>
           </Col>
           <Col lg="2" md="3">
             <h3 className="d-flex align-items-center gap-1">
               {" "}
-              <i className="fa-brands fa-apple"></i>Apple
+              <i className="ri-apple-line"></i>Apple
             </h3>
           </Col>
           <Col lg="2" md="3">
             <h3 className="d-flex align-items-center gap-1">
               {" "}
-              <i className="fa-solid fa-users-viewfinder"></i>Finder
+              <i className="ri-finder-line"></i>Finder
             </h3>
           </Col>
           <Col lg="2" md="3">
             <h3 className="d-flex align-items-center gap-1">
               {" "}
-              <i className="fa-brands fa-google"></i>Google
+              <i className="ri-google-line"></i>Google
             </h3>
           </Col>
         </Row>

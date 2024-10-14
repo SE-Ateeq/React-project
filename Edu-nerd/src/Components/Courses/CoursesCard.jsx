@@ -17,18 +17,18 @@ const CoursesCard = (props) => {
 
                        <div className='d-flex justify-content-between align-items-center'>
                         <p className="lesson d-flex align-iems-center gap-1">
-                        <i className="fa-solid fa-book-open"></i>
+                        <i className="ri-book-open-line"></i>
                             {lesson} LESSONS
                         </p>
                         <p className="students d-flex align-iems-center gap-1">
-                        <i className="fa-regular fa-user"></i>
+                        <i className="ri-user-line"></i>
                            {students}k
                         </p>
                        </div>
 
                        <div className='d-flex justify-content-between align-items-center'>
                         <p className="ratting d-flex align-iems-center gap-1">
-                        <i className="fa-solid fa-star"></i>
+                        <i className="ri-star-line"></i>
                             {ratting}K
                         </p>
                         <p className="enroll d-flex align-iems-center gap-1">
