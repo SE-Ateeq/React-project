@@ -9,7 +9,7 @@ import CoursesCard from './CoursesCard'
 const coursesData=[
     {
         id:"01",
-        title:"Web Design Bootcamp-2024 for Beginners",
+        title:"Anatomy",
         lesson:12,
         students:12.5,
         ratting:5.9,
@@ -17,7 +17,7 @@ const coursesData=[
     },
     {
         id:"02",
-        title:"Professional Graphic Design, PhotoShop, Adobe XD, Figma",
+        title:"Physiology",
         lesson:12,
         students:12.5,
         ratting:5.9,
@@ -25,7 +25,7 @@ const coursesData=[
     },
     {
         id:"03",
-        title:"UI/UX Bootcamp for Beginners in 2024",
+        title:"Diseases",
         lesson:12,
         students:12.5,
         ratting:5.9,

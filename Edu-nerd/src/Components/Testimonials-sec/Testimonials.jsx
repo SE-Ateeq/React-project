@@ -40,8 +40,8 @@ const Testimonials = () => {
                       </p>
 
                       <div className="student__info mt-4">
-                        <h6 className="fw-bold">Jhon Doe</h6>
-                        <p>California, United State</p>
+                        <h6 className="fw-bold">Ashiq</h6>
+                        <p>Peshawar, Pakistan</p>
                       </div>
                     </div>
                   </div>
