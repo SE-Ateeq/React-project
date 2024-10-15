@@ -25,7 +25,7 @@ const FeatureData = [
 
 const Features = () => {
   return (
-    <section>
+    <section className='mb-5'>
       <Container>
         <Row>
           {FeatureData.map((item, index) => (

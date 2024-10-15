@@ -6,7 +6,7 @@ import CountUp from "react-countup";
 
 const About = () => {
   return (
-    <section>
+    <section className="mb-5">
       <Container>
         <Row>
           <Col lg="6" md="6">

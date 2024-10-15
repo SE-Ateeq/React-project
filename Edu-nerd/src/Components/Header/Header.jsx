@@ -36,7 +36,7 @@ const Header = () => {
     <Container>
     <div className="navigation d-flex align-items-center justify-content-between">
       <div className="logo">
-        {/* <img src="../src/assets/logo.png" alt="" /> */}
+        {/* <img src="../src/assets/images/logo.png" alt="" /> */}
         <h2 className='d-flex align-items-center'>
           Edu-Nerd 
         </h2>

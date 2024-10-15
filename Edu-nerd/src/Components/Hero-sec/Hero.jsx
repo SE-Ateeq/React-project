@@ -7,7 +7,7 @@ import "./Hero.css";
 
 const Hero = () => {
   return (
-   <Container>
+   <Container className='mb-5'>
     <Row>
         <Col lg="6" md="6">
             <div className="hero_content">

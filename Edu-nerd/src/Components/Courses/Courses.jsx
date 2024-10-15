@@ -35,7 +35,7 @@ const coursesData=[
 
 const Courses = () => {
   return (
-    <section>
+    <section className='mb-5'>
       <Container>
         <Row>
             <Col lg="12">
@@ -49,7 +49,7 @@ const Courses = () => {
                         </p>
                     </div>
                     <div className='w-50 text-end'>
-                        <button className="btn btn-primary">See All</button>
+                        <button className="btn btn-primary mb-5">See All</button>
                     </div>
                 </div>
             </Col>

@@ -5,41 +5,41 @@ import "./Company.css";
 const Company = ()=> {
   return (
     <section>
-      <Container>
+      <Container className="mb-5">
         <Row>
           <Col lg="2" md="3">
-             <h3 className="d-flex align-items-center gap-1">
+             <h5 className="d-flex align-items-center gap-1">
              <i className="ri-vimeo-line"></i>Vimeo
-            </h3>
+            </h5>
           </Col>
           <Col lg="2" md="3">
-            <h3 className="d-flex align-items-center gap-1">
+            <h5 className="d-flex align-items-center gap-1">
             <i className="ri-pinterest-line"></i>Pinterest
-            </h3>
+            </h5>
           </Col>
 
           <Col lg="2" md="3">
-            <h3 className="d-flex align-items-center gap-1">
+            <h5 className="d-flex align-items-center gap-1">
             <i className="ri-dribbble-fill"></i>Dribbble
-            </h3>
+            </h5>
           </Col>
           <Col lg="2" md="3">
-            <h3 className="d-flex align-items-center gap-1">
+            <h5 className="d-flex align-items-center gap-1">
               {" "}
               <i className="ri-apple-line"></i>Apple
-            </h3>
+            </h5>
           </Col>
           <Col lg="2" md="3">
-            <h3 className="d-flex align-items-center gap-1">
+            <h5 className="d-flex align-items-center gap-1">
               {" "}
               <i className="ri-finder-line"></i>Finder
-            </h3>
+            </h5>
           </Col>
           <Col lg="2" md="3">
-            <h3 className="d-flex align-items-center gap-1">
+            <h5 className="d-flex align-items-center gap-1">
               {" "}
               <i className="ri-google-line"></i>Google
-            </h3>
+            </h5>
           </Col>
         </Row>
       </Container>
